@@ -1,0 +1,33 @@
+body{
+    background-color: #fefaec;
+}
+
+hr{
+    border-color: grey;
+    width: 5%;
+    height: 0px;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+}
+
+h1{
+    color:#625772;
+}
+
+h3{
+    color: #f38181;
+}
+
+.site{
+    font-size: 35px;
+    color: #f38181;
+}
+
+.circular{
+    border-radius: 70%;
+}
+
+li:hover{
+    color:#a9eee6;
+}
